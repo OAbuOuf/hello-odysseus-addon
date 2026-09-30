@@ -1,0 +1,7 @@
+name: "Hello Odysseus"
+version: "0.0.1"
+slug: "hello_odysseus"
+description: "THIS IS MY FIRST ADDON"
+arch:
+  - amd64
+  - aarch64
